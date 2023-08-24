@@ -1,4 +1,4 @@
-# How to make multiple commits squashed in one commit
+# How to make multiple commits squashed in one commit from feature branch
 
 ### Run to see commit history
 ```bash
@@ -19,14 +19,15 @@
 ### Change the word `pick` to `squash` on commits you want to omit or remove
 <img src="img/listofcommitswithsquashed.PNG">
 
-###### to save and exit the changes hit `Event.php`
+###### to save and exit the changes hit `ESC :wq`
 
-### Another window will pop up with messages of commits
+### Another tab will pop up with messages of commits
 <img src="img/squashedcommitlist2of2.PNG">
 
 ### Comment the commit messages you want to remove
 <img src="img/commentedcommitmessage.PNG">
 
+###### to save and exit the changes hit `ESC :wq`
 
 
 ### Check the commit log again by running
