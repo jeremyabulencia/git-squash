@@ -1,4 +1,4 @@
-# How to make multiple commits squashed in one commit
+# How to make multiple commits squashed in one commit from feature branch
 
 ### Run to see commit history
 ```bash
